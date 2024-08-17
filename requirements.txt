@@ -1,1 +1,6 @@
-PIL
+selenium
+pillow
+requests
+configparser
+urllib3
+webdriver-manager
